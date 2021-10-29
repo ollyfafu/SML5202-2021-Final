@@ -19,3 +19,5 @@ title: home
 </ol>
 <p><iframe src="//www.youtube.com/embed/M4-vAGKjeKk" width="560" height="314" allowfullscreen="allowfullscreen"></iframe></p>
 <p>&nbsp;</p>
+<p><img src="https://html-online.com/editor/tiny4_9_11/plugins/emoticons/img/smiley-cool.gif" alt="cool" /></p>
+<p><img src="https://html-online.com/editor/tiny4_9_11/plugins/emoticons/img/smiley-cool.gif" alt="cool" /></p>
