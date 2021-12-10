@@ -6,7 +6,7 @@
   Your browser does not support the audio element.
 </audio>
 
-<script src="wiki.js"></script>
+
 <header class="searchForm-container">
 <img src="https://image.ibb.co/e6vOFQ/wikipedia.png" alt="Wikipedia Logo">
 <form class="searchForm">
