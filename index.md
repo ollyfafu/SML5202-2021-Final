@@ -14,4 +14,5 @@ title: Home
 <li><a href="page5.html">Listening</a> - practice your ability to recognise different registers</li>
 </ul>
 
+<p>As a taster for the rest of the site, try this game and see how you do!</p>
 
