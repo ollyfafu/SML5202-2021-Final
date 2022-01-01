@@ -1,9 +1,9 @@
 ---
-title: home
+title: Home
 ---
 
 <h1>Welcome to the French Register Index</h1>
-<p>This website aims to teach you about language registers, why they are important and when to use them.</p>
+<p>This website aims to teach you about French language registers, why they are important and when to use them.</p>
 
 <p>Here is a helpful guide of our pages:</p>
 <ul style="list-style-type: square;">
