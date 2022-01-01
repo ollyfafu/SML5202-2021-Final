@@ -1,5 +1,5 @@
 ---
-title: Page2
+title: Registers
 ---
 
 <h1>Page 2</h1>
