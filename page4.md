@@ -1,3 +1,7 @@
+---
+title: Structures
+---
+
 <h1>Vocab</h1>
 
 <h2>VOCAB EXERCISES</h2>
