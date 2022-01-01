@@ -7,7 +7,7 @@ title: Home
 
 <p>Here is a helpful guide of our pages:</p>
 <ul style="list-style-type: square;">
-<li>Registers - an introduction to the concept</li>
+<li><a href="#site.github.page2">Registers</a> - an introduction to the concept</li>
 <li>Vocab - learn vocab and its relation to register</li>
 <li>Structures - how register is expressed through word order</li>
 <li>Listening - practice your ability to recognise different registers</li>
