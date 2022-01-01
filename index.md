@@ -3,7 +3,7 @@ title: Home
 ---
 
 <h1>Welcome to the French Register Index</h1>
-<img src="https://live.staticflickr.com/4116/4891173069_33a0f95c9f_b.jpg" alt="Baudelaire" style="width:500px;height:600px;">
+<img src="https://live.staticflickr.com/4116/4891173069_33a0f95c9f_b.jpg" alt="Baudelaire" style="width:250px;height:300px;">
 <p>This website aims to teach you about French language registers, why they are important and when to use them; knowing this will eventually improve your language level in making your French usage much more context-appropriate.</p>
 
 <p>Here is a helpful guide of our pages:</p>
