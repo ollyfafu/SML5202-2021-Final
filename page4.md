@@ -2,8 +2,29 @@
 title: Structures
 ---
 
-<h1>Vocab</h1>
+<h1>Structures</h1>
+<p>Let's see register in practice</p>
 
-<h2>VOCAB EXERCISES</h2>
+<div class="row">
+    <div class="col-sm-4">
+      <h3>Column 1</h3>
+      
+      <p><img src="https://upload.wikimedia.org/wikipedia/commons/6/60/French_flag_in_Angers.jpg" style="width:100%">
+<p> Look at the flag. </p>
+</p>
+    </div>
+    <div class="col-sm-4">
+      <h3>Column 2</h3>
+      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit...</p>
+      <p>Ut enim ad min
+          
+          im veniam, quis nostrud exercitation ullamco laboris...</p>
+    </div>
+    <div class="col-sm-4">
+      <h3>Column 3</h3>        
+      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit...</p>
+      <p>Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris...</p>
+    </div>
+  </div>
 
-<iframe src="https://h5p.org/h5p/embed/1229082" width="1090" height="882" frameborder="0" allowfullscreen="allowfullscreen" allow="geolocation *; microphone *; camera *; midi *; encrypted-media *" title="Clothes vocab search"></iframe><script src="https://h5p.org/sites/all/modules/h5p/library/js/h5p-resizer.js" charset="UTF-8"></script>
+
