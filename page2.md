@@ -13,7 +13,7 @@ title: Registers
 <li>populaire</li>
 <li>familier</li>
 <li>courant</li>
-<li>cultivé/li>
+<li>cultivé</li>
 </ul>
 
 
