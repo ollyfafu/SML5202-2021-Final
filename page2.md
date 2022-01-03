@@ -13,7 +13,7 @@ title: Registers
   <li><i>populaire</i> (very informal, reserved for very close friends. Can have negative connotations)</li>
   <li><i>familier</i> (demonstrates a closer, more intimate relationship)</li>
   <li><i>courant</i> (the standard, taught to those learning French as a second language and acceptable in nearly any situation)</li>
-  <li><i>cultivé</i> (respectful and formal, though can sound stilted in more relaxed environments)</li>
+  <li><i>cultivé/soutenu</i> (respectful and formal, though can sound stilted in more relaxed environments)</li>
 </ul>
 <p>The linguists then describe how each of these levels of style "[...]shade[s] into one another to form a continuum without a sharp natural break[...]" and thus forms what they term a 'stylistic continuum' (1997: 27). This means, for example, that words classed as <i>familier</i> may be acceptable in situations where the predominant register is <i>courant</i>: the borders between registers on the scale are not clearly defined. Those between seperated registers, however, definitely are: <i>vulgaire</i> vocabulary is to be in all cases avoided in a cultivated (<i>cultivé</i>) setting. 
 
