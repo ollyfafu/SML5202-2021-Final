@@ -7,10 +7,10 @@ title: Structures
 
 <div class="row">
     <div class="col-sm-4">
-      <h3>Column 1</h3>
+      
       
       <p><img src="https://upload.wikimedia.org/wikipedia/commons/6/60/French_flag_in_Angers.jpg" style="width:100%">
-<p> Look at the flag. </p>
+
 </p>
     </div>
     <div class="col-sm-4">
