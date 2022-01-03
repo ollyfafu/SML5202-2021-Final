@@ -4,7 +4,7 @@ title: Registers
 
 <h1>Registers</h1>
 <p>Let's learn about <strong>register</strong></p>
-<p><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Bibliotekarien_konserverad_-_Skoklosters_slott_-_97136.tif/lossy-page1-440px-Bibliotekarien_konserverad_-_Skoklosters_slott_-_97136.tif.jpg" style="width:25% height:15%"></p>
+<p><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Bibliotekarien_konserverad_-_Skoklosters_slott_-_97136.tif/lossy-page1-440px-Bibliotekarien_konserverad_-_Skoklosters_slott_-_97136.tif.jpg" style="width:25% height:10%"></p>
 <p>The Cambridge Dictionary defines register as "the style of language, grammar, and words used for particular situations". Although you may not realise it, register exists in practically every language, including English and French. Take, for example, the difference between the word 'friend' and 'mate'; whereas the first is more standard and therefore its use more flexible, the second can sound out of place when used in a more formal setting (i.e. a job interview). The 'particular situations' that affect the language we adopt concern depend on our relationship with the other speaker: how familiar are they and what authority (if any) do they have over us? Another factor is location: where is the communication taking place? A conversation in a bar is likely to be much more informal than one in a courtroom. 
 <br>Concerning the French language, Lodge et al. (1997: 27) explain how French dictionaries commonly seperate language into six registers: </p>
 <ul style="list-style-type: square;">
