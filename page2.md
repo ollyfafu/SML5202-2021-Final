@@ -21,3 +21,5 @@ title: Registers
 <br><p lang="fr">« N’ayant point préparé mes phrases, je parlais plus aisément. »</p>
 <p lang="fr">« Tout, en elle, n’était que question et qu’attente…Je vous dirais comment cette interrogation s’empara de moi, fit ma vie. »</p>
 <br><p>In the first extract, the literary formality is signalled by the use of the negation <i>ne...point</i>, a literary equivalent to the standard <i>ne...pas</i>. In the second, the use of the <i>vous</i> address demonstrates a more 'standard' level of formality (<i>cultivé</i>) while the use of the simple past (<i>'s’empara' and 'fit'</i>) elevate this to the <i>soutenu</i> literary level.</p>
+
+<h2><u>USEFUL RESOURCES</u></h2>
