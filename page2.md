@@ -24,7 +24,7 @@ title: Registers
 
 <h2>Useful resources</h2>
 <ul style="list-style-type: square;">
-  <li>Lodge, R.; Shelton, Jane; Yvette, Ellis & Armstrong, Nigel (1997) <i>Exploring the French Language</i>. London: Hodder Arnold.</li>
+  <li>Lodge, R.; Shelton, Jane; Yvette, Ellis & Armstrong, Nigel (1997) <i>Exploring the French Language</i>. London: Hodder Arnold. (Chapter 2)</li>
   <li><a href="https://www.lawlessfrench.com/linguistics/register/">Lawless French</a></li>
   <li><a href="https://www.francaisfacile.com/exercices/exercice-francais-2/exercice-francais-119094.php">Francaisfacile</a></li>
 </ul>
