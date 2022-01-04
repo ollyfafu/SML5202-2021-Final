@@ -34,4 +34,6 @@ title: Structures
 <textarea name="text" cols="45" rows="10">
 </textarea>
 
+<hr>
+
 
