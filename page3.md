@@ -19,8 +19,8 @@ title: Vocab
   <li><i>lâche</i> (c.), <i>dégonflé</i> (fam.), <i>couard</i> (s.)</li>
   <li><i>enfant</i> (c.), <i>gamin</i> (fam.)</li>
   <li><i>escroc</i> (c.), <i>aigrefin</i> (s.)</li>
-  <li></li>
-  <li></li>
+  <li><i>femme</i> (c.), <i>gonzesse</i> (fam.)</li>
+  <li><i>avare</i> (c.), <i>radin</i> (fam.), <i>ladre</i> (s.)</li>
 </ol>
 
 
