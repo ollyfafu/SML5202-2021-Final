@@ -42,7 +42,7 @@ title: Structures
 
 <p><strong>FORMAL AND INFORMAL NEGATION:</strong> a distinction can be drawn in French between formal and informal negation. In informal negation, the <i>ne</i> of structures like <i>ne...pas</i> or <i>ne...plus</i> is dropped (e.g. '<i>ils veulent pas</i>'); this is very common in oral French, and appears in text that closely resembles speech (texts, tweets, social media messages etc.). The <i>ne littéraire</i> is the informal negation's opposite, the dropping of the <i>pas</i> part of the negation. This is most common in highly formal/literary texts (formal letters, novels...) and concerns only a certain number of verbs, the most frequent being: <i>cesser, oser, pouvoir</i> and <i>savoir</i> (as we can see in the letter extract: '<i>ne saurait</i>'). This type of negation is almost exclusively written. <a href="https://www.thoughtco.com/formal-french-negation-1368882">For more information</a>.</p>
 
-<p><strong>ON VS. NOUS:</strong>: <i>nous</i> is standard (<i>courant</i>) while <i>on</i> is slightly more informal (<i>familier</i>). Although standard, <i>nous</i> is much less common orally (apart from in more formal settings). In this way, both <i>nous</i> and <i>on</i> are moving up the scale of registers, with the former becoming more formal and the latter more standard.</p>
+<p><strong>ON VS. NOUS:</strong> <i>nous</i> is standard (<i>courant</i>) while <i>on</i> is slightly more informal (<i>familier</i>). Although standard, <i>nous</i> is much less common orally (apart from in more formal settings). In this way, both <i>nous</i> and <i>on</i> are moving up the scale of registers, with the former becoming more formal and the latter more standard.</p>
 
 
 
