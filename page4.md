@@ -29,6 +29,6 @@ title: Structures
     </div>
   </div>
   
-<p>Look at the two bodies of text above: the first, an <a href="https://www.lamaisondesartistes.fr/site/lettre-ouverte-a-la-ministre-de-la-culture/">open letter</a> to the French culture secretary from 2021; the second, a selection of tweets sourced on <a href="https://twitter.com/?lang=fr">Twitter</a>.
+<p>Look at the two bodies of text above: the first, an <a href="https://www.lamaisondesartistes.fr/site/lettre-ouverte-a-la-ministre-de-la-culture/">open letter</a> to the French culture secretary from 2021; the second, a selection of tweets (about government ministers) sourced on <a href="https://twitter.com/?lang=fr">Twitter</a>.
 
 
