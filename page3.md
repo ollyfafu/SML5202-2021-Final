@@ -21,11 +21,6 @@ title: Vocab
   <li></li>
   <li></li>
   <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
-  <li></li>
 </ol>
 
 
