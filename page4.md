@@ -44,6 +44,8 @@ title: Structures
 
 <p><strong>ON VS. NOUS:</strong> <i>nous</i> is standard (<i>courant</i>) while <i>on</i> is slightly more informal (<i>familier</i>). Although standard, <i>nous</i> is much less common orally (apart from in more formal settings). In this way, both <i>nous</i> and <i>on</i> are moving up the scale of registers, with the former becoming more formal and the latter more standard.</p>
 
+<p><strong>EMPHATIC PRONOUNS:</strong> not necessarily informal in nature, the emphatic pronoun <i>toi</i> in the first tweet brings down the formality of the text in that it is a more familiar form of address (<i>tu</i> vs. <i>vous</i>) and that it is closer to something you would <strong>say</strong> (orally) in a more <strong>intimate setting</strong> (rather than write in a formal one). <a href="https://grammar.collinsdictionary.com/french-easy-learning/emphatic-pronouns">For more information</a></p>
+
 
 
 
