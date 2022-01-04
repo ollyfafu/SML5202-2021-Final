@@ -14,11 +14,10 @@ title: Structures
 </p>
     </div>
     <div class="col-sm-4">
-      <h3>Column 2</h3>
-      <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit...</p>
-      <p>Ut enim ad min
+      <h3>FORMAL</h3>
+      <p lang="fr">Un retour à une situation dite « normale » professionnellement pour les artistes ne saurait s’envisager avant plusieurs années, à l’image de la crise financière de 2008 qui a impactée les créateurs et les marchés de l’art pendant plusieurs années et que nous continuons encore à entendre comme un point de référence dans le discours d’artistes en difficultés. L’impact sera majeur et durable pour les professions artistiques.</p>
+     
           
-          im veniam, quis nostrud exercitation ullamco laboris...</p>
     </div>
     <div class="col-sm-4">
       <h3>Column 3</h3>        
