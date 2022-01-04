@@ -17,7 +17,7 @@ title: Vocab
   <li><i>nez</i> (c.), <i>pif</i> (fam.), <i>blair</i> (arg.)</li>
   <li><i>visage</i> (c.), <i>tronche/bouille</i> (fam.)</li>
   <li><i>lâche</i> (c.), <i>dégonflé</i> (fam.), <i>couard</i> (s.)</li>
-  <li><i>enfant</i> (c.), <i>gamin</i> (fam.), </li>
+  <li><i>enfant</i> (c.), <i>gamin</i> (fam.)</li>
   <li><i>escroc</i> (c.), <i>aigrefin</i> (s.)</li>
   <li></li>
   <li></li>
