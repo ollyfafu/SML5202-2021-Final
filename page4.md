@@ -23,6 +23,7 @@ title: Structures
       <h3>INFORMAL (TWEETS)</h3>        
       <p lang="fr">« Mais pourquoi tu discutes avec Roselyne Bachelot aussi toi ? »</p>
       <p lang="fr">« On se rend pas bien compte à quel point le "ministre des transports" ça n'a rien à foutre là »</p>
+      <p lang="fr">« C'est un ministre... ils veulent pas démissionner venez on démissionne d'eux »</p>
       
       
     </div>
