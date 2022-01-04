@@ -9,7 +9,7 @@ title: Structures
     <div class="col-sm-4">
       
       
-      <p><img src="https://upload.wikimedia.org/wikipedia/commons/6/60/French_flag_in_Angers.jpg" style="width:100%">
+      <p><img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Hemicycle_assemblee_nationale.JPG" style="width:100%">
 
 </p>
     </div>
