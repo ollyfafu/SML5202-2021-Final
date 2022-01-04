@@ -37,8 +37,8 @@ title: Structures
 <hr>
 
 <h2>Formality and informality markers</h2>
-<p><strong>Formality:</strong> <i>ne littéraire</i>, use of <i>nous</i></p>, multiple clauses
-<p><strong>Informality:</strong> emphatic pronouns, use of <i>on</i>, suppression of <i>ne</i> negation, vocab: <i>foutre</i> & <i>ça</i>, simple sentence structure, 
+<p><strong>Formality:</strong> <i>ne littéraire</i>, use of <i>nous</i>, multiple clauses. </p>
+<p><strong>Informality:</strong> emphatic pronouns, use of <i>on</i>, suppression of <i>ne</i> negation, vocab: <i>foutre</i> & <i>ça</i>, simple sentence structure. </p>
 
 
 
