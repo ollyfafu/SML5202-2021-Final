@@ -23,4 +23,7 @@ title: Vocab
   <li><i>avare</i> (c.), <i>radin</i> (fam.), <i>ladre</i> (s.)</li>
 </ol>
 <p>Use <a href="https://www.wordreference.com/">WordReference.com</a> to look up words you don't know! </p>
+<hr>
+
+
 
