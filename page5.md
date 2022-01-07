@@ -21,7 +21,7 @@ title: Listening
 <hr>
 <p>Register also expresses itself in pronunciation. In formal French, you will hear much more <i>liaison</i> (the linking of a normally unpronounced final consonant of one word with the vowel that begins the following one). Here's what it sounds like, so you know how to recognise <i>liaisons</i> and therefore formal spoken register in future:</p>
 <audio controls>
-  <source src="https://github.com/ollyfafu/SML5202-2021-Final/main/audio/pronunciation_fr_ils_ont.mp3" type="audio/mpeg">
+  <source src="https://ollyfafu.github.io/SML5202-2021-Final/audio/pronunciation_fr_ils_ont.mp3" type="audio/mpeg">
   Your browser does not support the audio tag.
 </audio>
 <p>As you can hear, the usually unpronounced final <i>s</i> of <i>ils</i> is joined here to the beginning <i>o</i> of <i>ont</i>. The resulting <i>z</i> sound is the <i>liaison</i>.</p>
