@@ -6,16 +6,10 @@ title: Listening
 <p>Let's get <strong>listening</strong></p>
 
 <p>As discussed earlier, written French constitutes one means of communication (or <i>mode</i>) and spoken French another. Between the two modes, there are numerous differences; here is a quick summary: </p>
-{ "class": "TreeModel",
-  "nodeDataArray": [
-{"key":0,"text":"Mind Map","loc":"0 0"},
-{"key":1,"parent":0,"text":"SPOKEN MODE","brush":"skyblue","dir":"right","loc":"77 -22"},
-{"key":11,"parent":1,"text":"Relies on listening","brush":"skyblue","dir":"right","loc":"200 -48"},
-{"key":12,"parent":1,"text":"Shared context and use of body language","brush":"skyblue","dir":"right","loc":"200 -22"},
-{"key":13,"parent":1,"text":"Spontaneous and simultaneous transmission & receipt","brush":"skyblue","dir":"right","loc":"200 4"},
-{"key":4,"parent":0,"text":"WRITTEN MODE","brush":"coral","dir":"left","loc":"-20 52.75"},
-{"key":41,"parent":4,"text":"Relies on sight","brush":"coral","dir":"left","loc":"-150 22.75"},
-{"key":42,"parent":4,"text":"No shared context, message must be explicit","brush":"coral","dir":"left","loc":"-175 52.75"},
-{"key":43,"parent":4,"text":"Planned and time gap between production and receipt","brush":"coral","dir":"left","loc":"-135 86.75"}
-]}
-
+<ul>
+  <li>Speech relies on <strong>sound and listening</strong>, writing on <strong>sight and text</strong></li>
+  <li>Speech takes place in a <strong>shared context</strong> where references are mutually understood and <strong>body language can be used</strong></li>
+  <li>In writing everything must be explained because there is <strong>no shared context</strong></li>
+  <li>Writing is mostly <strong>planned</strong> while speech is <strong>spontaneous</strong></i>
+  <li>Speech is <strong>simultaneously</strong> produced and recieved (by a listener), whilst in writing there is <strong>a gap</strong> between production and reception</li>
+</ul>
