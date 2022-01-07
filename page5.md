@@ -10,7 +10,7 @@ title: Listening
   <li>Speech relies on <strong>sound and listening</strong>, writing on <strong>sight and text</strong></li>
   <li>Speech takes place in a <strong>shared context</strong> where references are mutually understood and <strong>body language can be used</strong></li>
   <li>In writing everything must be explained because there is <strong>no shared context</strong></li>
-  <li>Writing is mostly <strong>planned</strong> while speech is <strong>spontaneous</strong></i>
+  <li>Writing is mostly <strong>planned</strong> while speech is <strong>spontaneous</strong></li>
   <li>Speech is <strong>simultaneously</strong> produced and recieved (by a listener), whilst in writing there is <strong>a gap</strong> between production and reception</li>
 </ul>
 
