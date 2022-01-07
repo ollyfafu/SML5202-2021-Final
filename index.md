@@ -8,10 +8,10 @@ title: Home
 
 <p>Here is a helpful guide of our pages:</p>
 <ul style="list-style-type: square;">
-<li><a href="page2.html">Registers</a> - an introduction to the concept</li>
-<li><a href="page3.html">Vocab</a> - learn vocab and its relation to register</li>
-<li><a href="page4.html">Structures</a> - how register is expressed through word order</li>
-<li><a href="page5.html">Listening</a> - practice your ability to recognise different registers</li>
+<li><a href="page2.html" target="_blank">Registers</a> - an introduction to the concept</li>
+<li><a href="page3.html" target="_blank">Vocab</a> - learn vocab and its relation to register</li>
+<li><a href="page4.html" target="_blank">Structures</a> - how register is expressed through word order</li>
+<li><a href="page5.html" target="_blank">Listening</a> - practice your ability to recognise different registers</li>
 </ul>
 
 <p>As a taster for the rest of the site, try this game and see how you do!</p>
