@@ -25,5 +25,5 @@ title: Listening
   Your browser does not support the audio tag.
 </audio>
 <p>As you can hear, the usually unpronounced final <i>s</i> of <i>ils</i> is joined here to the beginning <i>o</i> of <i>ont</i>. The resulting <i>z</i> sound is the <i>liaison</i>. This type of <i>liaison</i> is compulsory no matter what register, yet there are others that are only appropriate in more formal settings.</p>
-<br> <p>As the language of poetry normally falls into a literary and therefore more <i>soutenu</i> (formal) register, the use of <i>liaison</i> in poems is quite noticeable. Listen to this poem and see how many <i>liaisons</i> you can pick up!</p>
+<p>As the language of poetry normally falls into a literary and therefore more <i>soutenu</i> (formal) register, the use of <i>liaison</i> in poems is quite noticeable. Listen to this poem and see how many <i>liaisons</i> you can pick up!</p>
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gxy17CqF-TY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
