@@ -29,9 +29,10 @@ title: Structures
     </div>
   </div>
   
-<p>Look at the two bodies of text above: the first, an <a href="https://www.lamaisondesartistes.fr/site/lettre-ouverte-a-la-ministre-de-la-culture/">open letter</a> to the French culture secretary from 2021; the second, a selection of tweets (about government ministers) sourced on <a href="https://twitter.com/?lang=fr">Twitter</a>. The letter is written in a more formal register while the tweets, a mode of communication in between speech and writing, are undoubtedly more informal and <i>familier</i>. What differences do you see at first glance? Try noting them in the text box below and then compare with what we've picked up!</p>
+<p>Look at the two bodies of text above: the first, an <a href="https://www.lamaisondesartistes.fr/site/lettre-ouverte-a-la-ministre-de-la-culture/">open letter</a> to the French culture secretary from 2021; the second, a selection of tweets (about government ministers) sourced on <a href="https://twitter.com/?lang=fr">Twitter</a>. The letter is written in a more formal register while the tweets, a mode of communication between speech and writing, are undoubtedly more informal and <i>familier</i>. What differences do you see at first glance? Try noting them in the text box below and then compare with what we've picked up!</p>
 
 <textarea name="text" cols="45" rows="5">
+What differences can you see?...
 </textarea>
 
 <hr>
