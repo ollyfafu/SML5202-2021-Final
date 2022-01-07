@@ -14,4 +14,6 @@ title: Listening
   <li>Speech is <strong>simultaneously</strong> produced and recieved (by a listener), whilst in writing there is <strong>a gap</strong> between production and reception</li>
 </ul>
 
+<p>To get used to the spoken mode, language <strong>input</strong> is very important: here is an exercise to start you off!</p>
+
 
