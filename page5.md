@@ -13,3 +13,5 @@ title: Listening
   <li>Writing is mostly <strong>planned</strong> while speech is <strong>spontaneous</strong></i>
   <li>Speech is <strong>simultaneously</strong> produced and recieved (by a listener), whilst in writing there is <strong>a gap</strong> between production and reception</li>
 </ul>
+
+
