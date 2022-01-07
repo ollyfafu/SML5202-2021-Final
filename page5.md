@@ -24,4 +24,4 @@ title: Listening
   <source src="https://github.com/ollyfafu/SML5202-2021-Final/main/audio/pronunciation_fr_ils_ont.mp3" type="audio/mpeg">
   Your browser does not support the audio tag.
 </audio>
-<p>As you can hear, the usually unpronounced final <i>s</i> of <i>ils</i> is joined here to the beginning <i>o</i> of <i>ont</i>. The resulting <i>z</i> sound is the <i>liaison</i></p>
+<p>As you can hear, the usually unpronounced final <i>s</i> of <i>ils</i> is joined here to the beginning <i>o</i> of <i>ont</i>. The resulting <i>z</i> sound is the <i>liaison</i>.</p>
