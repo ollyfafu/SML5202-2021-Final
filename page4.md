@@ -50,9 +50,11 @@ What differences can you see?...
 <h3>Useful Resources</h3>
 <p>Reading a wide range of material is one of the best ways to familiarise yourself with different registers. Here are some recommendations:</p>
 <ul>
-    <li><a href="https://www.lemonde.fr/" target="_blank">Le Monde (online version of a newspaper)</a></li>
-    <li>Users of this site have ranked their<a href="https://www.senscritique.com/top/resultats/Les_meilleurs_livres_de_2021/2925875" target="_blank">favourite books of 2021</a></li>
-<li><a href="https://www.lemonde.fr/" target="_blank">Le Monde (online version of a newspaper)</a></li>
+    <li><a href="https://www.lemonde.fr/" target="_blank">Le Monde</a> (online version of a newspaper)</li>
+    <li>Users of this site have ranked their <a href="https://www.senscritique.com/top/resultats/Les_meilleurs_livres_de_2021/2925875" target="_blank">favourite books of 2021</a></li>
+<li><a href="https://www.lesvoixdelapoesie.com/poemes" target="_blank">Poetry</a></li>
+    <li><a href="https://www.paroles.net/dalida/paroles-j-attendrai" target="_blank">Paroles.net</a> (a site to look at song lyrics)</li>
+    <li><a href="https://twitter.com/?lang=fr" target="_blank">Twitter</a> (the language forms on social media are some of the most novel!)</li>
     </ul>
 
 
