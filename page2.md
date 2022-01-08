@@ -15,14 +15,14 @@ title: Registers
   <li><i>courant</i> (the standard, taught to those learning French as a second language and acceptable in nearly any situation)</li>
   <li><i>cultivé</i> (respectful, formal and polite with a degree of distance)</li>
 </ul>
-<p>The linguists then describe how each of these levels of style "[...]shade[s] into one another to form a continuum without a sharp natural break[...]" and thus forms what they term a 'stylistic continuum' (1997: 27). This means, for example, that words classed as <i>familier</i> may be acceptable in situations where the predominant register is <i>courant</i>: the borders between registers <strong>next to eachother</strong> on the scale are not clearly defined. Those between seperated registers, however, definitely are: <i>vulgaire</i> vocabulary is to be in all cases avoided in a cultivated (<i>cultivé</i>) setting. 
+<p>The linguists then describe how each of these levels of style "[...]shade[s] into one another to form a continuum without a sharp natural break[...]" and thus constitute what they term a 'stylistic continuum' (1997: 27). This means, for example, that words classed as <i>familier</i> may be acceptable in situations where the predominant register is <i>courant</i>: the borders between registers <strong>next to eachother</strong> on the scale are not clearly defined. Those between seperated registers, however, definitely are: <i>vulgaire</i> vocabulary is to be in all cases avoided in a cultivated (<i>cultivé</i>) setting. 
 
 <p>Nevertheless, this register list is not definitive. The situations that affect language use also refer to the means of communication, or mode; the two main modes are the <strong>spoken mode</strong> and the <strong>written mode</strong>. Although most registers are present in both modes, <i>courant</i> for example, some are more associated with writing while others seem more appropriate orally. An example of this is the <i>littéraire/soutenu</i> register, common in a lot of writing (novels, formal letters etc.) while rarer in speech (reserved for specific situations, such as political speeches - usually pre-written). Take these two short extracts from André Gide's 1909 <i>La Porte étroite</i> as an example:</p>
 <br>
 <p lang="fr">« N’ayant point préparé mes phrases, je parlais plus aisément. »</p>
 <p lang="fr">« Tout, en elle, n’était que question et qu’attente…Je vous dirais comment cette interrogation s’empara de moi, fit ma vie. »</p>
 <br>
-<p>In the first extract, the literary formality is signalled by the use of the negation <i>ne...point</i>, a literary equivalent to the standard <i>ne...pas</i>. In the second, the use of the <i>vous</i> address demonstrates a more 'standard' level of formality (<i>cultivé</i>) while the use of the simple past (<i>'s’empara' and 'fit'</i>) elevate this to the <i>soutenu</i> literary level.</p>
+<p>In the first extract, the literary formality is signalled by the use of the negation <i>ne...point</i>, a literary equivalent to the standard <i>ne...pas</i>. In the second, the use of the <i>vous</i> address demonstrates a more 'standard' level of formality while the use of the simple past (<i>'s’empara' and 'fit'</i>) elevate this to the <i>soutenu</i> literary level.</p>
 
 <br>
 <h2>Useful resources</h2>
