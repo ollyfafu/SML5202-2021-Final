@@ -47,6 +47,12 @@ What differences can you see?...
 
 <p><strong>EMPHATIC PRONOUNS:</strong> not necessarily informal in nature, the emphatic pronoun <i>toi</i> in the first tweet brings down the formality of the text in that it is a more familiar form of address (<i>tu</i> vs. <i>vous</i>) and that it is closer to something you would <strong>say</strong> (orally) in a more <strong>intimate setting</strong> (rather than write in a formal one). <a href="https://grammar.collinsdictionary.com/french-easy-learning/emphatic-pronouns" target="_blank">For more information</a></p>
 
-
+<h3>Useful Resources</h3>
+<p>Reading a wide range of material is one of the best ways to familiarise yourself with different registers. Here are some recommendations:</p>
+<ul>
+    <li><a href="https://www.lemonde.fr/" target="_blank">Le Monde (online version of a newspaper)</a></li>
+    <li>Users of this site have ranked their<a href="https://www.senscritique.com/top/resultats/Les_meilleurs_livres_de_2021/2925875" target="_blank">favourite books of 2021</a></li>
+<li><a href="https://www.lemonde.fr/" target="_blank">Le Monde (online version of a newspaper)</a></li>
+    </ul>
 
 
