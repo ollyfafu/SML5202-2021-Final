@@ -24,6 +24,7 @@ title: Registers
 <br>
 <p>In the first extract, the literary formality is signalled by the use of the negation <i>ne...point</i>, a literary equivalent to the standard <i>ne...pas</i>. In the second, the use of the <i>vous</i> address demonstrates a more 'standard' level of formality (<i>cultivé</i>) while the use of the simple past (<i>'s’empara' and 'fit'</i>) elevate this to the <i>soutenu</i> literary level.</p>
 
+<br>
 <h2>Useful resources</h2>
 <ul style="list-style-type: square;">
   <li>Lodge, R.; Shelton, Jane; Yvette, Ellis & Armstrong, Nigel (1997) <i>Exploring the French Language</i>. London: Hodder Arnold. (Chapter 2)</li>
